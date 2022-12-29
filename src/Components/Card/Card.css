@@ -1,0 +1,11 @@
+.img {
+  background: url('https://images.pexels.com/photos/89784/bmw-suv-all-terrain-vehicle-fog-89784.jpeg?cs=srgb&dl=automobile-bmw-car-89784.jpg&fm=jpg')no-repeat center;
+  background-size: cover;
+  height: 100%;
+}
+
+.btn {
+  background: transparent;
+  border: 1px solid #0229BF;
+  color: #0229BF;
+}
